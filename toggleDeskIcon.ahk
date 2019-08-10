@@ -1,4 +1,4 @@
-;说明
+﻿;说明
 ;  双击桌面空白处，隐藏\显示桌面图标
 ;参考
 ;  https://autohotkey.com/board/topic/82196-solved-double-click-on-the-desktop/
